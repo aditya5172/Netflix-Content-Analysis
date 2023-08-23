@@ -10,10 +10,6 @@ Welcome to the Netflix Analytics Report repository! This project aims to provide
 - **Insights:** Through interactive visualizations and concise reports, we delve into intriguing trends, revealing how content from different countries resonates globally and what factors contribute to their success.
 - **Storytelling:** Our reports emphasize storytelling by weaving data and insights into compelling narratives, allowing readers to grasp the essence of each observation.
 
-Certainly, here's the addition to the README that explains the data filling process you undertook:
-
----
-
 ## Data Filling
 
 ### Approach to Data Augmentation
